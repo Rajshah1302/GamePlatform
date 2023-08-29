@@ -8,7 +8,7 @@ body {
 .btn {
   background-color: #fff6e7;
   height: 250px;
-  min-width: 200px;
+  min-width: 250px;
   margin: 25px;
   display: inline-block;
   border: 3px solid black;
@@ -18,6 +18,7 @@ body {
 
 .container {
   width: 65%;
+  min-width: 300px
   margin: auto;
   height: auto;
   margin-top: 10vh;
